@@ -1,0 +1,27 @@
+* {
+    font-family: Helvetica;
+}
+
+.principalGreen {
+    background-color: rgb(6, 145, 6);
+    color: white;
+    font-size: 40px;
+}
+
+.subPrincipalYellow {
+    background-color: rgb(202, 204, 55);
+    color: rgb(69, 69, 69);
+    font-size: 20px;
+}
+
+.principalRosa {
+    background-color: rgb(228, 93, 232);
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+.principalCyan {
+    background-color: rgb(33, 130, 169);
+    color: whitesmoke;
+    font-size: 40px;
+}
